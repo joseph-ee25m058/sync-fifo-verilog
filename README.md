@@ -1,4 +1,4 @@
-# sync-fifo-verilog
+
 # Synchronous FIFO
 
 A parameterized synchronous FIFO implemented in Verilog RTL, with testbench verification, VCD waveform generation, Yosys synthesis, and SVG netlist visualization.
